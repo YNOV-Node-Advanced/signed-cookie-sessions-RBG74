@@ -1,0 +1,22 @@
+{
+  "name": "basic-auth-http-rbg74",
+  "version": "1.0.0",
+  "description": "Écrire un middleware express pour protéger une route avec un username/mot de passe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YNOV-Node-Advanced/basic-auth-http-RBG74.git"
+  },
+  "author": "RBG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YNOV-Node-Advanced/basic-auth-http-RBG74/issues"
+  },
+  "homepage": "https://github.com/YNOV-Node-Advanced/basic-auth-http-RBG74#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
