@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/YNOV-Node-Advanced/basic-auth-http-RBG74#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.3",
     "express": "^4.16.3"
   }
 }
